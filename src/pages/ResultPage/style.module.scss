@@ -1,0 +1,57 @@
+.Container {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  width: 90vw;
+  height: 100vh;
+  font-size: 3vw;
+  .Left {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    .Score {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+      height: 40%;
+      span {
+        font-size: 2.5vw;
+      }
+    }
+    Button{
+      background-image: url("../../assets/svgs/startbutton.svg") ;
+      background-repeat: no-repeat;
+      background-size: 100%;
+      padding: 3vw 10vw;
+  }
+  }
+  .Right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    .Questions {
+      display: flex;
+      flex-direction: column;
+      padding: 1vh 2vw;
+      font-size: 2.5vw;
+      ul{
+        list-style: none;
+      }
+      .Res{
+        padding: 0px 10px;
+      }
+    }
+  }
+}
+.Header {
+  display: flex;
+  flex-direction: column;
+  color: red;
+  span {
+    display: flex;
+    width: 20vw;
+  }
+}

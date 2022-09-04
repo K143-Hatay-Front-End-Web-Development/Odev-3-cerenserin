@@ -1,10 +1,9 @@
-# Odev-3
+# Math-Game
 
-## Grup Üyeleri
-- [Ad] [Soyad]
-- [Ad] [Soyad]
+## Team Members
 
-## İçerik
+-Ceren Serin
 
--  [Figma ](https://www.figma.com/file/KBUZCtv1lw507YqSABRXwV/Matematik-%C3%96devi?node-id=0%3A1)
--  
+### Figma
+
+https://www.figma.com/file/KBUZCtv1lw507YqSABRXwV/Matematik-%C3%96devi
